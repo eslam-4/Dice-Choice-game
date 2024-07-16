@@ -27,15 +27,3 @@ if (player1>player2){
             
         document.querySelector("h1").innerHTML = text
 
-
-
-/*var text = ""
-switch(player1, player2){
-    case player1>player2:
-        text = "Player 1 wins"
-    case player2>player1:
-        text = "Player 2 wins"
-    case player1===player2:
-        text = "It is a draw"
-}
-document.getElementsByClassName[0].innerHTML = text;*/
